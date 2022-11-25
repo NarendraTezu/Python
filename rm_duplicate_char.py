@@ -7,7 +7,7 @@
 # Remove Duplicate Charectors from string
 
 
-string = "Hi how are you?"
+string = "Hi how are you? I am Narendra from Varanasi"
 temp_str = ""
 for i in range(len(string)):
     if string[i] not in temp_str:
